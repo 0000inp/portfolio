@@ -29,7 +29,7 @@ import VCodeBlock from '@wdns/vue-code-block';
     <div class="mb-3">
         <p class="text-md opacity-50 text-white inline-flex items-center gap-2"> <span class="pi pi-cog"></span> Under Development</p>
     </div>
-    <iframe width="530" height="315" src="https://www.youtube.com/embed/oHWikUBgI2s?si=RYWMtxZ_SxJjlXLy&autoplay=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="530" height="315" src="https://www.youtube.com/embed/sQd0nm8XQHo?si=RYWMtxZ_SxJjlXLy&autoplay=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     <p class="mt-1">This is my graduation project. A submarine horror game aim to raise environmental awareness</p>
 
@@ -58,6 +58,17 @@ import VCodeBlock from '@wdns/vue-code-block';
         lang="c++"
         theme="neon-bunny"
       />
+    </div>
+
+    <div class="my-3">
+      <h2><strong class="font-semibold">In game images </strong></h2>
+        <img class="mb-5" src="../../assets/Project/Red Sea/intro.png">
+        <img class="mb-5" src="../../assets/Project/Red Sea/hud.png">
+        <img class="mb-5" src="../../assets/Project/Red Sea/screen.png">
+        <img class="mb-5" src="../../assets/Project/Red Sea/turret.png">
+        <img class="mb-5" src="../../assets/Project/Red Sea/energy.png">
+        <img class="mb-5" src="../../assets/Project/Red Sea/wire.png">
+      
     </div>
 
 </template>
